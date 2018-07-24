@@ -1,3 +1,3 @@
 # hello-world
 
-Thia ia a test documetn for better understanding of GitHub and its branch feature.
+Thia is a test documetn for better understanding of GitHub and its branch feature.
